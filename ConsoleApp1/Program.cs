@@ -18,6 +18,7 @@ namespace ConsoleApp1
             Console.WriteLine("A={0}", A);
 
             Console.WriteLine("B={0}", B);
+            Console.ReadKey();
         }
     }
 }
