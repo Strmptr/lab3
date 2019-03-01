@@ -14,7 +14,7 @@ namespace ConsoleApp1
                 int B = int.Parse(Console.ReadLine());
                 Console.WriteLine("A={0}", A);
                 Console.WriteLine("B={0}", B);
-                Console.WriteLine("A-B={0}", A - B);
+                Console.WriteLine("A+B={0}", A + B);
         }
     }
 }
